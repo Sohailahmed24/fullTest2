@@ -4,7 +4,7 @@
 59F:\test2\frontend\node_modules\@parcel\logger\src\Logger.js133691097673058977 0
 50F:\test2\frontend\node_modules\svgo\lib\types.d.ts133691097779922158 0
 63F:\test2\frontend\node_modules\@parcel\transformer-posthtml\src133691097682196811 1
-22F:\test2\frontend\dist133691126352611680 1
+22F:\test2\frontend\dist133691129316076420 1
 66F:\test2\frontend\node_modules\update-browserslist-db\package.json133691097693642766 0
 45F:\test2\frontend\node_modules\@parcel\plugin133691097675971690 1
 28F:\test2\frontend\.gitignore133691113726468873 0
@@ -3886,7 +3886,7 @@
 67F:\test2\frontend\node_modules\cosmiconfig\dist\ExplorerSync.js.map133691097763160830 0
 114F:\test2\frontend\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local133691097859674736 1
 63F:\test2\frontend\node_modules\cosmiconfig\dist\getDirectory.js133691097705041084 0
-33F:\test2\frontend\dist\index.html133691126352432154 0
+33F:\test2\frontend\dist\index.html133691129315832277 0
 67F:\test2\frontend\node_modules\cosmiconfig\dist\getDirectory.js.map133691097763969343 0
 63F:\test2\frontend\node_modules\abortcontroller-polyfill\LICENSE133691097663538489 0
 72F:\test2\frontend\node_modules\cosmiconfig\dist\getPropertyByPath.js.map133691097773222838 0
@@ -6184,5 +6184,5 @@
 62F:\test2\frontend\node_modules\.bin\update-browserslist-db.cmd133691098056592020 0
 62F:\test2\frontend\node_modules\.bin\update-browserslist-db.ps1133691098056582813 0
 44F:\test2\frontend\dist\index.3d214d75.js.map133691109224059627 0
-40F:\test2\frontend\dist\index.7479d343.js133691126352454099 0
-44F:\test2\frontend\dist\index.7479d343.js.map133691126352591731 0
+40F:\test2\frontend\dist\index.7479d343.js133691129315852221 0
+44F:\test2\frontend\dist\index.7479d343.js.map133691129316071929 0
